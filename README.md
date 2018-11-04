@@ -9,6 +9,7 @@ I will request the same from you.
 
 <strong>Data Science is awesome:</strong>
 It is an exciting, fast-moving field to become involved in.Much of the value that a data scientist brings to the table is clarity and insights from the vast quantities of data .It is all about understanding the true potential of Data in your hand.Also we can solve lots of real world problems like : fraud detection,drugs for major diseases(skin cancer),improving the education system etc.
+
 If you are still not convinced to dedicate few hours of your day in becoming 'A master' of this transformative technology,let me talk about some of the personal benefits:
 Going for something you love daily will make a solid habit and consequently will add a touch of discipline in your life.
 You will have strong online presence (as we also need to share our work,so that it can benefit others)

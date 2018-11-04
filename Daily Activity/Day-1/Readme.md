@@ -1,4 +1,4 @@
-Day 1: Processing Data like a boss 
+Day 1(04/11): Processing Data like a boss 
 
 Aim: Introduces the Pandas containers and the indexers to create the subset of Data 
 

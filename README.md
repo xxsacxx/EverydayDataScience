@@ -31,6 +31,6 @@ So,Everyone is eligible who are in love with this coolest technology of our time
 
 There are no rules, just some promises to be kept :
 
-let's pledge together to dedicate at least couple of hours everyday towards either learning(revisiting) some cool concepts of DataScience(collection of tools that turn data into real-world actions.) and sharing them via your favorite social platform using the #EverydayDataScience Hashtag.
+let's pledge together to dedicate at least couple of hours everyday towards either learning(revisiting) some cool concepts of DataScience(collection of tools that turn data into real-world actions.) and sharing them via your favorite social platform using the #everydaydatascience Hashtag.
 
-Encourage your fellow learners via a 'like', 'share', or comment! if you see a post using the #EverydayDataScience hashtag.
+Encourage your fellow learners via a 'like', 'share', or comment! if you see a post using the #everydaydatascience hashtag.
